@@ -1,0 +1,7 @@
+txt = input("Insira seu texto: ")
+txt = txt.replace("a", "1")
+txt = txt.replace("e", "2")
+txt = txt.replace("i", "3")
+txt = txt.replace("o", "4")
+txt = txt.replace("u", "5")
+print(txt)
